@@ -1,0 +1,36 @@
+[InstallLanguage]
+LangID=ENU
+
+[Strings]
+AppID={117CE366-3EED-48C5-BF6A-E0F47A0E68A4}
+AdminRights=
+
+[CreateDirs]
+C:\Program Files (x86)\Runtime Software=
+C:\Program Files (x86)\Runtime Software\ShadowCopy=
+
+[{2C1BC1D5-B82D-4D90-9D49-403320904970}.CopyFiles]
+C:\Program Files (x86)\Runtime Software\ShadowCopy\shadowcopy.exe=
+C:\Program Files (x86)\Runtime Software\ShadowCopy\vssxp.dll=
+C:\Program Files (x86)\Runtime Software\ShadowCopy\vssserv.dll=
+C:\Program Files (x86)\Runtime Software\ShadowCopy\vssvista.dll=
+C:\Program Files (x86)\Runtime Software\ShadowCopy\vss64.exe=
+C:\Program Files (x86)\Runtime Software\ShadowCopy\vss642008.exe=
+C:\Program Files (x86)\Runtime Software\ShadowCopy\vss642008r2.exe=
+
+[{2C1BC1D5-B82D-4D90-9D49-403320904970}.CreateKeys]
+HKLM\Software\Runtime Software=
+HKLM\Software\Runtime Software\ShadowCopy=
+
+[{2C1BC1D5-B82D-4D90-9D49-403320904970}.AddReg]
+HKLM\Software\Runtime Software\ShadowCopy\'InstallDir'=
+HKLM\Software\Runtime Software\ShadowCopy\'Version'=
+
+[{2C1BC1D5-B82D-4D90-9D49-403320904970}.CreateDirs]
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Runtime Software=
+
+[{2C1BC1D5-B82D-4D90-9D49-403320904970}.Shortcuts]
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Runtime Software\ShadowCopy.lnk=
+C:\Users\Public\Desktop\ShadowCopy.lnk=
+C:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\ShadowCopy.lnk=
+
